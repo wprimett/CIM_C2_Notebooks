@@ -4,9 +4,9 @@
 
 Pip
 
-= `pip install requirements.txt`
+- `pip install requirements.txt`
 
-Conda environemnt managemnt
+Conda environemnt managemnt (Optional)
 
 - `conda env create -f cim2.yml`
 

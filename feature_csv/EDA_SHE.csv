@@ -1,0 +1,134 @@
+x,y,Group
+0,0,She enters
+13,3,Goes to the window
+26,0,He enters
+39,3,Dialogue
+52,1,Physical Contact
+65,2,Embrace
+78,0,End
+0,1,She enters
+13,2,Goes to the window
+26,2,He enters
+39,2,Dialogue
+52,1,Physical Contact
+65,1,Embrace
+78,1,End
+0,1,She enters
+13,3,Goes to the window
+26,3,He enters
+39,0,Dialogue
+52,1,Physical Contact
+65,2,Embrace
+78,0,End
+0,2,She enters
+13,1,Goes to the window
+26,1,He enters
+39,2,Dialogue
+52,3,Physical Contact
+65,2,Embrace
+78,1,End
+0,1,She enters
+13,1,Goes to the window
+26,1,He enters
+39,2,Dialogue
+52,2,Physical Contact
+65,3,Embrace
+78,1,End
+0,2,She enters
+13,1,Goes to the window
+26,1,He enters
+39,1,Dialogue
+52,2,Physical Contact
+65,1,Embrace
+78,2,End
+0,0,She enters
+13,0,Goes to the window
+26,3,He enters
+39,2,Dialogue
+52,2,Physical Contact
+65,3,Embrace
+78,2,End
+0,1,She enters
+13,3,Goes to the window
+26,3,He enters
+39,4,Dialogue
+52,1,Physical Contact
+65,0,Embrace
+78,0,End
+0,2,She enters
+13,3,Goes to the window
+26,0,He enters
+39,0,Dialogue
+52,0,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,0,Goes to the window
+26,0,He enters
+39,0,Dialogue
+52,0,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,1,Goes to the window
+26,1,He enters
+39,2,Dialogue
+52,0,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,1,Goes to the window
+26,1,He enters
+39,1,Dialogue
+52,1,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,1,Goes to the window
+26,2,He enters
+39,1,Dialogue
+52,1,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,1,Goes to the window
+26,0,He enters
+39,1,Dialogue
+52,0,Physical Contact
+65,0,Embrace
+78,0,End
+0,0,She enters
+13,1,Goes to the window
+26,2,He enters
+39,1,Dialogue
+52,1,Physical Contact
+65,1,Embrace
+78,0,End
+0,1,She enters
+13,0,Goes to the window
+26,0,He enters
+39,1,Dialogue
+52,1,Physical Contact
+65,0,Embrace
+78,0,End
+0,3,She enters
+13,3,Goes to the window
+26,3,He enters
+39,2,Dialogue
+52,2,Physical Contact
+65,4,Embrace
+78,2,End
+0,4,She enters
+13,3,Goes to the window
+26,4,He enters
+39,3,Dialogue
+52,3,Physical Contact
+65,2,Embrace
+78,2,End
+0,2,She enters
+13,2,Goes to the window
+26,3,He enters
+39,2,Dialogue
+52,1,Physical Contact
+65,2,Embrace
+78,0,End

@@ -1,6 +1,6 @@
 # CIM_C2_Notebooks
 
-### Dependencies
+### Install dependencies
 
 Conda environemnt managemnt
 
@@ -13,3 +13,14 @@ If you want a different name:
 - `conda env create -f environment.yml -n newenv`
 
 - `conda activate myenv`
+
+### Usage
+
+Start here, and follow instructions
+
+[CIM_C2_Sensors_Template.ipynb](CIM_C2_Sensors_Template.ipynb)
+
+### Questions
+
+wprimett [at] tlu [dot] ee
+

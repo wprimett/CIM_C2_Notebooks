@@ -2,6 +2,10 @@
 
 ### Install dependencies
 
+Pip
+
+= `pip install requirements.txt`
+
 Conda environemnt managemnt
 
 - `conda env create -f cim2.yml`

@@ -1,0 +1,10 @@
+pandas
+matplotlib
+scipy
+biosppy
+seaborn
+pywavelets
+scikit-learn
+ipywidgets
+ipython
+numpy==1.26.4
